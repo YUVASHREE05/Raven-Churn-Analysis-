@@ -52,7 +52,7 @@ The workflow combines:
 ---
 
 **Dashboard overview**
-![Churn Dashboard](Churn_Dashboard.png)
+[Churn Dashboard](churn_Dashboard.png)
 ---
 ## ✅ Conclusion  
 The analysis proves that churn is **preventable** when businesses focus on **onboarding, payment infrastructure, and product differentiation**.  
